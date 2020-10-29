@@ -1,13 +1,21 @@
 ## REQUISITOS
 
 .NET 3.1
+
 SqlLocalDB SQL SERVER
+
 SQL Server
+
 Visual Studio 2019
+
 EntityFrameworkCore SQLite 3.1.9
+
 EntityFrameworkCore SQL Server 3.1.9
+
 EntityFrameworkCore Tools 3.1.9
+
 EntityFrameworkCore 3.1.9
+
 
 ## Pasos instalacion
 
