@@ -19,6 +19,7 @@ EntityFrameworkCore 3.1.9
     Consola del Administrador de paquetes
     
 3.-  Una ves en consola generamos las migraciones de la base de datos 
+
       `Add-Migration DbInit`
       
       `Update-Database`
