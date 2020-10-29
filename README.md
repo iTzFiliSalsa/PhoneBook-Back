@@ -12,14 +12,16 @@ EntityFrameworkCore 3.1.9
 ## Pasos instalacion
 
 1.- generar el servidor `sqllocaldb create "NEORIS"`
+
 2.- Descargar el proyecto y abrirlo en visual studio
     Ir a Herramientas
     Administrador de paquetes NuGet
     Consola del Administrador de paquetes
     
 3.-  Una ves en consola generamos las migraciones de la base de datos 
-      Add-Migration DbInit
-      Update-Database
+      `Add-Migration DbInit`
+      
+      `Update-Database`
 
 4.- Compilamos el proyecto y esta listo para usarse
 
